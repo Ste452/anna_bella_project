@@ -24,3 +24,12 @@ a {
 	font-weight: bold;
 	padding: 5px;
 }
+
+#rodape {
+	text-align: center;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
